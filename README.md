@@ -1,3 +1,3 @@
 # React Testing!
 
-Training course for react tests
+Basic intro in react tests (initial setup and basic test cases)
